@@ -17,10 +17,15 @@ Project Output Instructions :
 
 Output:
 1) DATA PRE-PROCESSING OPERATIONS
+
 ![alt text](image.png)
+
 ![alt text](image-1.png)
+
 ![alt text](image-2.png)
+
 ![alt text](image-3.png)
+
 ![alt text](image-4.png)
 
 
@@ -41,5 +46,7 @@ Recommended songs:
 2371             pop  
 19639          latin  
 
+
 Output:-
+
 ![alt text](image-5.png)
