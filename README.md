@@ -22,7 +22,10 @@ Output:
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
-2) Reccomation systems
+
+
+2) RECOMMENDATION SYSTEM
+
 Recommended songs:
                                               track_name track_artist  \
 29684  I Don't Care (with Justin Bieber) - Loud Luxur...   Ed Sheeran   
@@ -38,4 +41,5 @@ Recommended songs:
 2371             pop  
 19639          latin  
 
+Output:-
 ![alt text](image-5.png)
